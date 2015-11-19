@@ -1,2 +1,3 @@
 # logic-gates
-This is an ASCII version of a digital logic gate simulator.
+This is an ASCII version of a digital logic gate simulator.  
+Written in C++
